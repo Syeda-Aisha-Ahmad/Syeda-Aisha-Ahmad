@@ -48,14 +48,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </p>
 
 
-<br/>
-<br/>
 
 <br/>
-<br/>
-
+<h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-aisha-ahmad&show_icons=true&locale=en&layout=compact" alt="syeda-aisha-ahmad" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeda-aisha-ahmad&show_icons=true&locale=en" alt="syeda-aisha-ahmad" /></p>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeda-aisha-ahmad&" alt="syeda-aisha-ahmad" /></p>
