@@ -8,16 +8,24 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://aishaahmad.netlify.app/](https://aishaahmad.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://aishaahmad.netlify.app/">my Portfolio</a>
 
 - 💬 Ask me about **react, front-end design**
 
 - 📫 How to reach me **18aishaahmad@gmail.com**
 
 - ⚡ Fun fact **Wanna touch the land of Mars**
+<br/>
+<br/>
 
-<br/>
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aisha-ahmad19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aisha-ahmad19" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100015597035398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100015597035398" height="30" width="40" /></a>
+<a href="https://instagram.com/18aishaahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="18aishaahmad" height="30" width="40" /></a>
+</p>
+
+
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
